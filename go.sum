@@ -1,0 +1,15 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/go-ini/ini v1.67.0 h1:z6ZrTEZqSWOTyH2FlglNbNgARyHG8oLW9gMELqKr06A=
+github.com/go-ini/ini v1.67.0/go.mod h1:ByCAeIL28uOIIG0E3PJtZPDL8WnHpFKFOtgjp+3Ies8=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cdn v1.0.766 h1:xzUjXhBP78RfCjRPJ6k4Gq+oARyWO8cmEPJ0ZwSGuPk=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cdn v1.0.766/go.mod h1:e/hZH+fmQbYeRhYkVs1TQi6ATIGyATLHLss+FLdrwZE=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/clb v1.0.766 h1:Fiw/SrBEmF/VW7Yts3QqAW5XM/WckXGVnLQkMaj7Jy8=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/clb v1.0.766/go.mod h1:CBLyN2HFbFy2xn0AkSeJe4IPQLugjdvyCaOp4HHbCN8=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.766 h1:8ZCE1JWqpavsvpoqn9gfI/cstdYqqACwfdNEGP9SaiM=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.766/go.mod h1:r5r4xbfxSaeR04b166HGsBa/R4U3SueirEUpXGuw+Q0=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/redis v1.0.766 h1:JpR+XNIQWlo6g9DvXE10nQl4feLcDrLONdLtNiRpoTY=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/redis v1.0.766/go.mod h1:jkg+tRS+hIR5wNePTVAmHVNiSNhJD2YcQJsl5qM8BAk=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
